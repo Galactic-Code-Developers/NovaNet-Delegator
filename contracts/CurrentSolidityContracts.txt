@@ -1,4 +1,4 @@
-📌 Current Solidity Contracts in the `NovaNet-Delegator` Repository**
+📌 Current Solidity Contracts in the `NovaNet-Delegator` Repository
 This is the latest list of smart contracts inside the NovaNet-Delegator repository, including staking, governance, slashing, AI-driven optimizations, and treasury management.
 
 ✅ Current Smart Contracts in `NovaNet-Delegator`
