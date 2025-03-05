@@ -1,1 +1,0 @@
-StakingContract.sol
