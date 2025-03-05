@@ -22,7 +22,7 @@ This is the latest list of smart contracts inside the NovaNet-Delegator reposito
 | Treasury.sol               | Controls fund allocations, rewards, and penalties.                               |
 
 🔍 Missing Enhancements in `NovaNet-Delegator`
-To fully integrate **all NovaChain AI and delegation features**, we need to **add** the following missing **smart contracts**:
+To fully integrate **all NovaChain AI and delegation features**, we must **add** the following missing **smart contracts**:
 
 | Missing Smart Contract           | Purpose                                                        |
 |----------------------------------|----------------------------------------------------------------|
