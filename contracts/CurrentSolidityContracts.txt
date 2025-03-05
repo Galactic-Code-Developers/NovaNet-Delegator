@@ -1,49 +1,39 @@
-### **📌 Current Solidity Contracts in the `NovaNet-Delegator` Repository**
+📌 Current Solidity Contracts in the `NovaNet-Delegator` Repository**
 This is the **latest list** of **smart contracts** inside the **NovaNet-Delegator repository**, including **staking, governance, slashing, AI-driven optimizations, and treasury management**.
 
 ---
 
-## ✅ **Current Smart Contracts in `NovaNet-Delegator`**
-| Contract Name | **Purpose** |
-|-------------------|------------|
-| AIAuditLogger.sol | Logs **all governance and staking transactions** for transparency. |
-| **AIBudgetBalancer.sol** | Ensures **staking rewards remain stable** by balancing treasury allocations. |
-| **AIRewardDistribution.sol** | AI-powered **staking reward distribution** for delegators. |
-| **AISlashingAppeal.sol** | Allows **delegators to appeal slashing decisions** using AI validation. |
-| **AISlashingMonitor.sol** | Monitors **delegators and validators for misbehavior**. |
-| **AIValidatorLeaderboard.sol** | AI-generated **ranking of top validators** for delegators. |
-| **AIValidatorReputation.sol** | Tracks **validator reliability** based on **performance & slashing history**. |
-| **AIValidatorSelection.sol** | **AI-driven validator selection** for optimal delegation. |
-| **AIVotingModel.sol** | AI-adjusted **voting power model** for delegators. |
-| **DelegatorContract.sol** | **Core contract** for **delegation management** (staking, withdrawing, reassigning). |
-| **DelegatorGovernance.sol** | Allows delegators to **participate in governance** based on stake. |
-| **DelegatorSlashing.sol** | AI-powered **slashing and penalties** for delegators. |
-| **DelegatorStaking.sol** | Handles **staking, unstaking, and reward tracking**. |
-| **RewardDistribution.sol** | Ensures **correct distribution of staking rewards**. |
-| **StakingContract.sol** | Manages **staking pools and validator interactions**. |
-| **Treasury.sol** | Controls **fund allocations, rewards, and penalties**. |
+✅ Current Smart Contracts in `NovaNet-Delegator`
+| Contract Name              | Purpose                                                                         |
+|----------------------------|------------|
+| AIAuditLogger.sol          | Logs **all governance and staking transactions** for transparency. |
+| AIBudgetBalancer.sol       | Ensures **staking rewards remain stable** by balancing treasury allocations. |
+| AIRewardDistribution.sol   | AI-powered **staking reward distribution** for delegators. |
+| AISlashingAppeal.sol       | Allows **delegators to appeal slashing decisions** using AI validation. |
+| AISlashingMonitor.sol      | Monitors **delegators and validators for misbehavior**.                              |
+| AIValidatorLeaderboard.sol | AI-generated **ranking of top validators** for delegators.                           |
+| AIValidatorReputation.sol  | Tracks validator reliability** based on **performance & slashing history.            |
+| AIValidatorSelection.sol   | **AI-driven validator selection** for optimal delegation.                            |
+| AIVotingModel.sol          | AI-adjusted **voting power model** for delegators.                                   |
+| DelegatorContract.sol      | **Core contract** for **delegation management** (staking, withdrawing, reassigning). |
+| DelegatorGovernance.sol** | Allows delegators to **participate in governance** based on stake. |
+| DelegatorSlashing.sol** | AI-powered **slashing and penalties** for delegators. |
+| DelegatorStaking.sol** | Handles **staking, unstaking, and reward tracking**. |
+| RewardDistribution.sol** | Ensures **correct distribution of staking rewards**. |
+| StakingContract.sol** | Manages **staking pools and validator interactions**. |
+| Treasury.sol** | Controls **fund allocations, rewards, and penalties**. |
 
 ---
 
-## 🔍 **Missing Enhancements in `NovaNet-Delegator`**
+🔍 Missing Enhancements in `NovaNet-Delegator`
 To fully integrate **all NovaChain AI and delegation features**, we need to **add** the following missing **smart contracts**:
 
-| **Missing Smart Contract** | **Purpose** |
-|---------------------------|------------|
-| `AIDelegationBalancer.sol` | **Auto-switches** delegations when a validator underperforms. |
-| `AIFraudDetection.sol` | Detects **delegation fraud** (sybil attacks, vote manipulation). |
-| `AISlashingAdjuster.sol` | AI **adjusts penalties** based on behavior trends. |
-| `AIDelegatorLeaderboard.sol` | AI-powered **ranking of top delegators**. |
-| `AIGovernanceFraudDetection.sol` | Prevents **mass-proposal spam and vote manipulation**. |
-| `AITreasuryAdjuster.sol` | AI **dynamically adjusts treasury contribution requirements**. |
-| `AIDelegatorNotifier.sol` | Sends **on-chain alerts** to delegators about staking changes. |
-
----
-
-## **🚀 Next Steps**
-✅ **Add the missing AI-powered smart contracts** listed above.  
-✅ **Ensure full AI integration into `DelegatorGovernance.sol` and `DelegatorStaking.sol`**.  
-✅ **Test automatic delegation switching & fraud detection**.  
-✅ **Enable real-time AI notifications for delegators**.  
-
-Would you like me to **generate the missing Solidity contracts** to complete the **NovaNet-Delegator system**? 🚀
+| Missing Smart Contract           | Purpose                                                        |
+|----------------------------------|----------------------------------------------------------------|
+| `AIDelegationBalancer.sol   `    | Auto-switches delegations when a validator underperforms.      |
+| `AIFraudDetection.sol`           | Detects delegation fraud (sybil attacks, vote manipulation).   |
+| `AISlashingAdjuster.sol `        | AI adjusts penalties** based on behavior trends.               |
+| `AIDelegatorLeaderboard.sol`     | AI-powered **ranking of top delegators**.                      |
+| `AIGovernanceFraudDetection.sol` | Prevents **mass-proposal spam and vote manipulation**.         |
+| `AITreasuryAdjuster.sol`         | AI **dynamically adjusts treasury contribution requirements**. |
+| `AIDelegatorNotifier.sol`        | Sends **on-chain alerts** to delegators about staking changes. |
