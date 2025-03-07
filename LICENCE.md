@@ -1,4 +1,4 @@
-## CC-BY-NC
+## Licence
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
