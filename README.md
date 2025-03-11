@@ -12,23 +12,27 @@ This repository uses shared smart contracts hosted in the [NovaNet-CommonContrac
 
 | **Contract Name** | **Function** |
 |--------------------------|------------------------------------------------|
-| `QuantumSecureHasher.sol` | Quantum-resistant hashing utility for blockchain transactions |
-| `QuantumResistantKeyExchange.sol` | Implements post-quantum cryptographic key exchange |
-| `AIValidatorSelection.sol` | AI-driven validator selection and ranking |
-| `AISlashingMonitor.sol` | AI-powered fraud detection for validators and delegators |
-| `AIRewardDistribution.sol` | AI-optimized staking and validator reward distribution |
+| **Governance & Validator Management** | |
 | `NovaNetValidator.sol` | Manages validator registration, reputation tracking, and staking logic |
 | `NovaNetGovernance.sol` | AI-enhanced decentralized governance with proposal automation |
 | `NovaNetTreasury.sol` | AI-powered treasury management for stake allocation and fund distribution |
-| `NovaNetBridge.sol` | Secure cross-chain asset transfers with quantum security |
 | `AIVotingModel.sol` | AI-driven dynamic voting power adjustments |
 | `AIValidatorReputation.sol` | Real-time tracking of validator reputation and performance metrics |
-| `AIAuditLogger.sol` | On-chain logging of AI governance and validator actions |
-| `AIGovernanceFraudDetection.sol` | Detects fraudulent governance activity via AI analysis |
 | `AIValidatorAutoAdjustment.sol` | Automatically rotates validators based on AI-driven performance metrics |
+| `AIGovernanceFraudDetection.sol` | Detects fraudulent governance activity via AI analysis |
+| `AIAuditLogger.sol` | On-chain logging of AI governance and validator actions |
+| **Quantum Security & Cryptography** | |
+| `QuantumSecureHasher.sol` | Quantum-resistant hashing utility for blockchain transactions |
+| `QuantumResistantKeyExchange.sol` | Implements post-quantum cryptographic key exchange |
+| `QuantumDelegationSecurity.sol` | Secure staking and delegation with quantum-enhanced cryptographic signing |
+| `QuantumAssistedValidatorAuthentication.sol` | Ensures validator authentication using post-quantum cryptographic methods |
+| **Validator & Delegation Automation** | |
+| `AIValidatorSelection.sol` | AI-driven validator selection and ranking |
 | `AIQuantumDelegatorManager.sol` | AI-driven delegation adjustment to prevent validator monopolization |
 | `AIQuantumStakeOptimizer.sol` | Optimizes delegation weight based on validator trust scores |
+| `AISlashingMonitor.sol` | AI-powered fraud detection for validators and delegators |
 | `NovaNetSlashing.sol` | Validator penalties and automated slashing logic |
+| `AIRewardDistribution.sol` | AI-optimized staking and validator reward distribution |
 
 Regular updates from the shared repository ensure NovaNet maintains security, efficiency, and compliance with the latest advancements.
 
@@ -42,6 +46,7 @@ NovaNet’s delegation system integrates AI and quantum security to optimize sta
 |------------|-------------------------------------|
 | **AI-Optimized Delegation Rotation (QADR)** | Ensures fair validator selection and prevents stake monopolization |
 | **Quantum-Secured Validator Authentication (QSVA)** | Prevents fraudulent validators from participating in staking |
+| **AI-Powered Validator Auto-Selection** | Automatically ranks and rotates validators based on performance |
 | **AI-Powered Delegator Ranking** | Assigns delegators based on performance history and reputation scores |
 | **AI-Driven Staking Optimization** | Dynamically adjusts stake weight to maximize network security |
 | **Automated Slashing & Fraud Detection** | Detects dishonest validators and removes them in real time |
